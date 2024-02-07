@@ -31,6 +31,23 @@ Go to project root and execute the following command in console to get the requi
 flutter pub get 
 ```
 
+**Step 3:**
+
+To run app on either local or virtual device execute the following command in console: 
+
+For debug mode:
+
+```
+flutter run --debug
+```
+
+
+For release mode (Recommend):
+
+```
+flutter run --release
+```
+
 
 ## Features:
 
