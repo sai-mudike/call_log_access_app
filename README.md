@@ -3,7 +3,7 @@
 ![final call logs](https://github.com/sai-mudike/call_log_access_app/assets/127184650/c7f7e4b9-c1f5-4bbe-8f25-bce59e5c84ef)
 
 
- I've made a Flutter app that helps folks check their call history easily. In the app, you can see details like who called, their number, how long the call lasted, and when it happened. The app's design makes it simple to move around and look at your call log comfortabl
+ I've made a Flutter app that helps folks check their call history easily. In the app, you can see details like who called, their number, how long the call lasted, and when it happened. The app's design makes it simple to move around and look at your call log comfortably.
 
  Click => [Watch Code Explanation Here.](https://www.youtube.com/watch?v=_GcJG0Y-kCg)
 
